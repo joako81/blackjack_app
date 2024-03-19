@@ -7,6 +7,8 @@ const miModulo = (() => {
 
     let puntosJugadores = [];
 
+    console.log('hola');
+
     // Referencias del HTML
     const btnPedir   = document.querySelector('#btnPedir'),
           btnDetener = document.querySelector('#btnDetener'),
